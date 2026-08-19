@@ -1,7 +1,7 @@
 # WHAT IS COFEU?
 Cofeu is an open-source gallery platform inspired by the GNU philosophy, dedicated to providing a free, community-driven space for digital media management and collaboration.
 
-### CORE PILLARS OF PROJECT
+### CORE PILLARS OF THE PROJECT
 
 * **GNU-Inspired Freedom**: Cofeu is built on the belief that software should be transparent, adaptable, and owned by the community rather than corporate gatekeepers.
 * **Community-Centric Ecosystem**: It aims to bring developers, creators, and open-source enthusiasts together to contribute, share, and improve the platform.
@@ -13,18 +13,21 @@ Cofeu is an open-source gallery platform inspired by the GNU philosophy, dedicat
 * **Global Collaboration**: Rooted in Türkiye but built for the international dev community, inviting worldwide contributors via our GitHub organization.
 * **Extensible Architecture**: Structured to allow easy plugin development, customization, and seamless integration with other self-hosted ecosystems.
 
-# HOW DO I CONTRIBUTE
-You make fork on cofeu projects and follow us. 
+---
 
-# DO COFEU HAVE A LICENSE LIKE GNU?
-Yes! Cofeu is have license. Still Progres in license. 
+# HOW DO I CONTRIBUTE?
+You can contribute by forking the Cofeu projects, submitting pull requests, and following our official updates. We welcome developers of all skill levels!
+
+---
+
+# DOES COFEU HAVE A LICENSE LIKE GNU?
+Yes! Cofeu is licensed. Our official licensing framework is currently a work in progress.
+
 ### LICENSES
-* **1.**: Cofeu V3 License(STILL PROGRESS)
+* **Cofeu V3 License** (In Progress)
 
-# DO COFEU HAVE A DISCORD SERVER
-Yes! Cofeu Have A discord Server:
-   [Discord](https://discord.gg/Q2Dd6hmvDg)
+---
 
-
-
-
+# DOES COFEU HAVE A DISCORD SERVER?
+Yes! Cofeu has an official Discord server where the community gathers. Join us here:
+👉 [Join the Cofeu Discord Server](https://discord.gg/Q2Dd6hmvDg)
